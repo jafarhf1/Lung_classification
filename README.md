@@ -1,2 +1,2 @@
 # Lung_classification
-Deep Learning using tensorflow for multi-label lung classification
+Deep Learning using tensorflow for multi-class lung classification
